@@ -6,4 +6,10 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    a='codeacadimy'
+    s=print(a[0:3])
+    c='python'
+    s=print(c[0:3])
+
+    return s
+print(main(' '))
